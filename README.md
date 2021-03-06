@@ -1,6 +1,3 @@
-
-YOU SHOULDN'T COPY AND PASTE THE CFGS
-
 I have an AMD Athlon 3000g, so if you have one as well this config could help your performance.
 
 My sensitvity is 12.67.
